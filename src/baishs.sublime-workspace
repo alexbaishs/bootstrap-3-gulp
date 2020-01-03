@@ -1,0 +1,754 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"g",
+				"gulp"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 2394,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "libs/_footer.html",
+			"settings":
+			{
+				"buffer_size": 27,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "libs/_header.html",
+			"settings":
+			{
+				"buffer_size": 26,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "scss/main.scss",
+			"settings":
+			{
+				"buffer_size": 684,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "scss/_vars.scss",
+			"settings":
+			{
+				"buffer_size": 373,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "scss/_media.scss",
+			"settings":
+			{
+				"buffer_size": 507,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "scss/_libs.scss",
+			"settings":
+			{
+				"buffer_size": 167,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "scss/_fonts.scss",
+			"settings":
+			{
+				"buffer_size": 186,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Install Package",
+				"Package Control: Install Package"
+			],
+			[
+				"Install Package Control",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/alexb/Desktop/Baishs-bootstrap/gulpfile.js",
+		"/C/Users/alexb/Desktop/Baishs-bootstrap/src/_footer.html",
+		"/C/Users/alexb/Desktop/Baishs-bootstrap/src/_header.html",
+		"/D/ARCHIVE/Documents/Job/web-development/projects/time/gulpfile.js",
+		"/C/Users/alexb/Desktop/Baishs-bootstrap/src/sass/main.sass",
+		"/C/Users/alexb/Desktop/Baishs-bootstrap/src/sass/_fonts.sass",
+		"/C/Users/alexb/Desktop/Baishs-bootstrap/src/sass/_libs.sass",
+		"/C/Users/alexb/Desktop/Baishs-bootstrap/src/sass/_media.sass",
+		"/C/Users/alexb/Desktop/Baishs-bootstrap/src/sass/_vars.sass",
+		"/C/Users/alexb/Desktop/Baishs-bootstrap/src/scss/main.scss",
+		"/C/Users/alexb/Desktop/Baishs-bootstrap/package.json",
+		"/C/Users/alexb/Desktop/Baishs-bootstrap/src/package.json",
+		"/C/Users/alexb/Desktop/Baishs-bootstrap/src/gulpfile.js",
+		"/D/ARCHIVE/Documents/Job/web-development/resources/OptimizedHTML-4-master/gulpfile.js",
+		"/C/Users/alexb/Desktop/Baishs-bootstrap/package-lock.json",
+		"/D/ARCHIVE/Documents/Job/web-development/resources/OptimizedHTML-4-master/package.json",
+		"/D/ARCHIVE/Documents/Job/web-development/projects/time/app/scss/_vars.scss",
+		"/D/ARCHIVE/Documents/Job/web-development/projects/time/app/scss/_libs.scss",
+		"/D/ARCHIVE/Documents/Job/web-development/projects/time/app/js/common.js",
+		"/D/ARCHIVE/Documents/Job/web-development/projects/time/app/scss/_media.scss",
+		"/D/ARCHIVE/Documents/Job/web-development/projects/time/app/scss/main.scss",
+		"/D/ARCHIVE/Documents/Job/web-development/projects/time/app/index.html",
+		"/D/ARCHIVE/Documents/Job/web-development/projects/time/package.json",
+		"/D/ARCHIVE/Documents/Job/web-development/projects/time/app/css/main.min.css",
+		"/D/ARCHIVE/Documents/Job/web-development/projects/time/app/js/scripts.min.js",
+		"/D/ARCHIVE/Documents/Job/web-development/projects/time/Megashop/MegaShop_files/bottom-5aecd728.js",
+		"/D/ARCHIVE/Documents/Job/web-development/resources/OptimizedHTML-4-master/app/scss/main.scss",
+		"/D/ARCHIVE/Documents/Job/web-development/projects/time/Megashop/MegaShop_files/theme-16443429.css",
+		"/D/ARCHIVE/Documents/Job/web-development/projects/time/app/scss/_fonts.scss",
+		"/D/ARCHIVE/Documents/Job/web-development/projects/time/app/index2.html",
+		"/D/ARCHIVE/Documents/Job/web-development/projects/time/app/scss/main2.scss",
+		"/D/ARCHIVE/Documents/Job/web-development/projects/time/app/scss/_mixins/_font-face.scss",
+		"/D/ARCHIVE/Documents/Job/web-development/projects/Status/_Wordpress Export/Переезд/status.sql",
+		"/D/ARCHIVE/Documents/Job/web-development/projects/Status/_Wordpress Export/Переезд/web.status.loc/wp-includes/blocks.php",
+		"/D/ARCHIVE/Documents/Job/web-development/projects/Status/_Wordpress Export/Переезд/status.vip/wp-config.php",
+		"/C/Users/alexb/AppData/Local/Temp/fz3temp-2/wp-config.php",
+		"/D/ARCHIVE/Documents/Job/web-development/projects/Status/_Wordpress Export/Переезд/web.status.loc/wp-config.php",
+		"/D/ARCHIVE/Documents/Job/web-development/projects/BodyLine/bodyline.loc/app/scss/main.scss",
+		"/D/ARCHIVE/Documents/Job/web-development/projects/BodyLine/bodyline.loc/app/scss/theme/_variables.scss",
+		"/D/ARCHIVE/Documents/Job/web-development/projects/BodyLine/bodyline.loc/app/contacts.html",
+		"/D/ARCHIVE/Documents/Job/web-development/projects/BodyLine/bodyline.loc/app/scss/theme/_home.scss",
+		"/C/Users/alexb/OneDrive/Documents/compass.html",
+		"/C/Users/alexb/Desktop/MegaShop.html",
+		"/C/Users/alexb/Downloads/status.sql",
+		"/C/Users/alexb/Downloads/wp-config (2).php",
+		"/C/Users/alexb/Downloads/wp-config.php",
+		"/D/OSPanel/domains/web.status.loc/wp-content/themes/index.php",
+		"/C/Users/alexb/Desktop/script.js",
+		"/C/Users/alexb/Desktop/redirect.js",
+		"/C/Users/alexb/Desktop/info.php",
+		"/D/OSPanel/domains/status.loc/xmlrpc.php",
+		"/D/OSPanel/domains/status.loc/wp-settings.php",
+		"/D/OSPanel/domains/status.loc/wp-cron.php",
+		"/D/OSPanel/domains/status.loc/wp-config-sample.php",
+		"/D/OSPanel/domains/status.loc/wp-config.php",
+		"/D/OSPanel/domains/status.loc/readme.html",
+		"/D/OSPanel/domains/status.loc/wp-activate.php",
+		"/D/OSPanel/domains/status.loc/index.php",
+		"/D/OSPanel/domains/status.loc/wp-admin/edit.php",
+		"/D/OSPanel/domains/web.status.loc/wp-config.php",
+		"/C/Users/alexb/OneDrive/Documents/job/web-development/projects/BodyLine/bodyline.loc/gulpfile.js",
+		"/C/Users/alexb/OneDrive/Documents/job/web-development/projects/BodyLine/bodyline.loc/app/css/main.min.css",
+		"/C/Users/alexb/OneDrive/Documents/job/web-development/projects/Status/games.status.loc/index.html",
+		"/C/Users/alexb/OneDrive/Documents/job/web-development/resources/templates/gym-colorlib/index.html",
+		"/C/Users/alexb/OneDrive/Documents/job/web-development/projects/BodyLine/bodyline.loc/app/results.html",
+		"/D/OSPanel/domains/banner.loc/i.php",
+		"/D/OSPanel/domains/banner.loc/index.php",
+		"/C/Users/alexb/OneDrive/Documents/job/web-development/projects/BodyLine/bodyline.loc/app/schedule.html",
+		"/C/Users/alexb/OneDrive/Documents/job/web-development/projects/BodyLine/bodyline.loc/app/css/bootstrap.min.css",
+		"/C/Users/alexb/OneDrive/Documents/job/web-development/projects/BodyLine/bodyline.loc/app/css/bootstrap.css",
+		"/C/Users/alexb/OneDrive/Documents/job/web-development/projects/BodyLine/bodyline.loc/app/css/animate.min.css",
+		"/C/Users/alexb/OneDrive/Documents/job/web-development/projects/BodyLine/bodyline.loc/app/css/main.map",
+		"/C/Users/alexb/OneDrive/Documents/job/web-development/projects/BodyLine/bodyline.loc/app/css/jquerysctipttop.css",
+		"/C/Users/alexb/OneDrive/Documents/job/web-development/projects/BodyLine/bodyline.loc/app/css/magnific-popup.css",
+		"/C/Users/alexb/OneDrive/Documents/job/web-development/projects/BodyLine/bodyline.loc/app/css/linearicons.css",
+		"/C/Users/alexb/OneDrive/Documents/job/web-development/projects/BodyLine/bodyline.loc/app/css/owl.carousel.css",
+		"/C/Users/alexb/OneDrive/Documents/job/web-development/projects/BodyLine/bodyline.loc/app/css/nice-select.css",
+		"/C/Users/alexb/OneDrive/Documents/job/web-development/projects/BodyLine/bodyline.loc/app/css/theme/pages.css",
+		"/C/Users/alexb/OneDrive/Documents/job/web-development/projects/BodyLine/bodyline.loc/app/js/main.js",
+		"/C/Users/alexb/OneDrive/Documents/job/web-development/projects/BodyLine/bodyline.loc/app/js/mail-script.js",
+		"/C/Users/alexb/OneDrive/Documents/job/web-development/projects/BodyLine/bodyline.loc/app/js/jquery.sticky.js",
+		"/C/Users/alexb/OneDrive/Documents/job/web-development/projects/BodyLine/bodyline.loc/app/mail.php",
+		"/C/Users/alexb/OneDrive/Documents/job/web-development/projects/BodyLine/bodyline.loc/app/scss/bootstrap.scss",
+		"/C/Users/alexb/OneDrive/Documents/job/web-development/projects/BodyLine/bodyline.loc/app/scss/main.scss",
+		"/C/Users/alexb/OneDrive/Documents/job/web-development/projects/BodyLine/bodyline.loc/app/scss/theme/_elements.scss",
+		"/C/Users/alexb/OneDrive/Documents/job/web-development/projects/BodyLine/bodyline.loc/app/scss/theme/_reset.scss",
+		"/C/Users/alexb/OneDrive/Documents/job/web-development/projects/BodyLine/bodyline.loc/app/scss/theme/_header.scss",
+		"/C/Users/alexb/OneDrive/Documents/job/web-development/projects/BodyLine/bodyline.loc/app/scss/theme/_flexbox.scss",
+		"/C/Users/alexb/OneDrive/Documents/job/web-development/projects/BodyLine/bodyline.loc/app/scss/theme/_mixins.scss",
+		"/C/Users/alexb/OneDrive/Documents/job/web-development/projects/BodyLine/bodyline.loc/app/scss/theme/_schedule.scss",
+		"/C/Users/alexb/OneDrive/Documents/job/web-development/projects/BodyLine/bodyline.loc/app/scss/theme/_footer.scss",
+		"/C/Users/alexb/OneDrive/Documents/job/web-development/projects/BodyLine/bodyline.loc/app/scss/theme/_variables.scss",
+		"/C/Users/alexb/OneDrive/Documents/job/web-development/projects/BodyLine/bodyline.loc/app/scss/theme/_results.scss",
+		"/C/Users/alexb/OneDrive/Documents/job/web-development/projects/BodyLine/bodyline.loc/app/scss/theme/_contacts.scss",
+		"/C/Users/alexb/OneDrive/Documents/job/web-development/projects/BodyLine/bodyline.loc/app/scss/fontawesome/_animated.scss",
+		"/C/Users/alexb/OneDrive/Documents/job/web-development/projects/BodyLine/bodyline.loc/package.json",
+		"/C/Users/alexb/OneDrive/Documents/job/web-development/projects/BodyLine/bodyline.loc/package-lock.json",
+		"/C/Users/alexb/OneDrive/Documents/job/web-development/projects/BodyLine/bodyline.loc/app/scss/fontawesome/_bordered-pulled.scss",
+		"/C/Users/alexb/OneDrive/Documents/job/web-development/projects/BodyLine/bodyline.loc/app/scss/fontawesome/_core.scss",
+		"/C/Users/alexb/OneDrive/Documents/job/web-development/projects/BodyLine/bodyline.loc/app/scss/fontawesome/_fixed-width.scss",
+		"/C/Users/alexb/OneDrive/Documents/job/web-development/projects/BodyLine/bodyline.loc/app/scss/fontawesome/_larger.scss",
+		"/C/Users/alexb/OneDrive/Documents/job/web-development/projects/BodyLine/bodyline.loc/app/scss/fontawesome/_list.scss",
+		"/C/Users/alexb/OneDrive/Documents/job/web-development/projects/BodyLine/bodyline.loc/app/scss/fontawesome/_mixins.scss",
+		"/C/Users/alexb/OneDrive/Documents/job/web-development/projects/BodyLine/bodyline.loc/app/scss/fontawesome/_screen-reader.scss",
+		"/C/Users/alexb/OneDrive/Documents/job/web-development/projects/BodyLine/bodyline.loc/app/scss/fontawesome/_shims.scss",
+		"/C/Users/alexb/OneDrive/Documents/job/web-development/projects/BodyLine/bodyline.loc/app/scss/fontawesome/_variables.scss",
+		"/C/Users/alexb/OneDrive/Documents/job/web-development/projects/BodyLine/bodyline.loc/app/scss/fontawesome/brands.scss",
+		"/C/Users/alexb/OneDrive/Documents/job/web-development/projects/BodyLine/bodyline.loc/app/scss/fontawesome/fontawesome.scss",
+		"/C/Users/alexb/OneDrive/Documents/job/web-development/projects/BodyLine/bodyline.loc/app/scss/fontawesome/regular.scss",
+		"/C/Users/alexb/OneDrive/Documents/job/web-development/projects/BodyLine/bodyline.loc/app/scss/fontawesome/solid.scss",
+		"/C/Users/alexb/OneDrive/Documents/job/web-development/projects/BodyLine/bodyline.loc/app/scss/fontawesome/v4-shims.scss",
+		"/C/Users/alexb/OneDrive/Documents/job/web-development/projects/BodyLine/bodyline.loc/app/scss/fontawesome/_icons.scss",
+		"/C/Users/alexb/OneDrive/Documents/job/web-development/projects/BodyLine/bodyline.loc/app/js/slick.js",
+		"/D/OSPanel/domains/banner.loc/adm.php",
+		"/D/OSPanel/domains/banner.loc/connect.ini",
+		"/D/OSPanel/domains/banner.loc/banners.sql",
+		"/C/Users/alexb/OneDrive/Documents/job/web-development/projects/BodyLine/bodyline.loc/app/scss/theme/_home.scss",
+		"/C/Users/alexb/OneDrive/Documents/job/web-development/projects/BodyLine/bodyline.loc/app/index.html",
+		"/D/OSPanel/domains/prestashopdemo.loc/index.php",
+		"/D/OSPanel/domains/prestashopdemo.loc/config/config.inc.php",
+		"/D/OSPanel/domains/prestashopdemo.loc/themes/index.php",
+		"/D/OSPanel/domains/prestashopdemo.loc/themes/classic/assets/css/custom.css",
+		"/D/OSPanel/domains/prestashopdemo.loc/themes/classic/assets/css/theme.css",
+		"/C/Users/alexb/OneDrive/Documents/job/web-development/projects/BodyLine/bodyline.loc/archieve/app/index.html",
+		"/C/Users/alexb/OneDrive/Documents/job/web-development/projects/BodyLine/bodyline.loc/archieve/app/generic.html",
+		"/C/Users/alexb/OneDrive/Documents/job/web-development/projects/BodyLine/bodyline.loc/archieve/app/elements.html",
+		"/C/Users/alexb/Desktop/anti-func/anti-func.php",
+		"/D/OSPanel/domains/banner.loc/phpFBS-1.0/adm.php"
+	],
+	"find":
+	{
+		"height": 32.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"rsync",
+			"z-index",
+			"webkit-",
+			"15",
+			"index",
+			"sticky",
+			" no-repeat",
+			"dropdown",
+			"web.status.loc",
+			"http://web.status.loc",
+			"http://web.status.vip",
+			"statusvip",
+			"alexbaishs@",
+			"http://web.status.loc",
+			"https:",
+			"web.status.loc",
+			"web.",
+			"tor-butt",
+			"printf",
+			"mysqli_fetch_array",
+			"mysql_",
+			"banners.sql",
+			"banner_table",
+			"res",
+			"resu",
+			"parallax",
+			"overlay",
+			"overl",
+			"overlay",
+			"schedule",
+			"generic-banner",
+			"genric-banner",
+			"schedule",
+			"destinations",
+			"dest",
+			"insur",
+			"relative",
+			"$whitewww",
+			"$black",
+			"$white",
+			"$black",
+			"$white",
+			"$blackwww",
+			"$white",
+			"$black",
+			"$blackwww",
+			"$white",
+			"$black",
+			"$blackwww",
+			"$white",
+			"$black",
+			"$blackwww",
+			"$white",
+			"$whitewww",
+			"$white",
+			"$black",
+			"font-size: 60",
+			"0.3",
+			"lnr-phone",
+			"25px",
+			"sf-arr",
+			"FontAwesome",
+			"sf-w",
+			"em",
+			" a",
+			"a",
+			"btn",
+			"54",
+			"letter-spac",
+			"letter",
+			"primary-btn",
+			"primary-bt",
+			"414",
+			"99",
+			"800",
+			"mobile",
+			"header-top",
+			"displa",
+			"banner-c",
+			"hr",
+			"max-w",
+			"menu-has",
+			"18px",
+			"50px",
+			"\n \t\tline-height: 44px;",
+			"primary-btn",
+			"font",
+			"font-fa",
+			"\n    &:hover {\n        color: $white;\n        span {\n            color: $white;\n            right: 20px;\n        }\n    }",
+			"main-menu ",
+			"primary-btn",
+			"gold-text",
+			"gold",
+			"menu-top",
+			"lnr-",
+			"gold",
+			"primary-color",
+			"gold",
+			"background:url",
+			"background: url",
+			"background",
+			"background:",
+			"back",
+			"top-right",
+			";\n",
+			"title-color",
+			"body",
+			"nav-menu",
+			"primary-color",
+			"primary-btn",
+			"text-wh",
+			"text-w",
+			"text-white",
+			"not a val",
+			"',\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"status.vip",
+			"http://status.vip",
+			"status.vip",
+			"$black",
+			"$white",
+			"$blackwww",
+			"$white",
+			"$blackwww",
+			"$white",
+			"$black",
+			"$whitewww",
+			"$white",
+			"$black",
+			"$whitewww",
+			"$white",
+			"$black",
+			"$whitewww",
+			"$white",
+			"$black",
+			"$whitewww",
+			"red"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2394,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								15,
+								15
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "libs/_footer.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 27,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								17,
+								17
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "libs/_header.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 26,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 3,
+					"file": "scss/main.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 684,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								312,
+								312
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Sass/Syntaxes/SCSS.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "scss/_vars.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 373,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								94,
+								94
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Sass/Syntaxes/SCSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "scss/_media.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 507,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								60,
+								60
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Sass/Syntaxes/SCSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "scss/_libs.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 167,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								167,
+								167
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Sass/Syntaxes/SCSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "scss/_fonts.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 186,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								186,
+								186
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Sass/Syntaxes/SCSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "baishs.sublime-project",
+	"replace":
+	{
+		"height": 60.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
